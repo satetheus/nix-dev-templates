@@ -39,8 +39,9 @@
               nodejs
               pnpm
               yarn
-              prettier
               typescript
+              prettier
+              biome
               self.formatter.${system}
             ];
           };

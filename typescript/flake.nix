@@ -40,6 +40,7 @@
               pnpm
               yarn
               typescript
+              tsx
               prettier
               biome
               self.formatter.${system}

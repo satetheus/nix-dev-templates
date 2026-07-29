@@ -61,6 +61,7 @@
               cargo-edit
               cargo-watch
               rust-analyzer
+              bacon
               hyperfine
               cargo-flamegraph
               self.formatter.${system}

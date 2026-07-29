@@ -45,8 +45,6 @@
               cargo
               rustfmt
               rust-src
-              hyperfine
-              cargo-flamegraph
             ]
           );
       };
@@ -63,6 +61,8 @@
               cargo-edit
               cargo-watch
               rust-analyzer
+              hyperfine
+              cargo-flamegraph
               self.formatter.${system}
             ];
 

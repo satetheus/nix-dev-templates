@@ -45,6 +45,8 @@
               cargo
               rustfmt
               rust-src
+              hyperfine
+              cargo-flamegraph
             ]
           );
       };
